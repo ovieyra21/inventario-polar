@@ -88,7 +88,7 @@ const Login = () => {
           <p>
             Usuarios demo: admin, inventario, produccion, empaque, visor
             <br />
-            Contraseña para todos: hielo123
+            Contraseña para todos:
           </p>
         </div>
       </div>
